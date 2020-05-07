@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/dev-cluster/dev-cluster.iml" filepath="$PROJECT_DIR$/dev-cluster/dev-cluster.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kafka-webview.iml" filepath="$PROJECT_DIR$/kafka-webview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kafka-webview-plugin/kafka-webview-plugin.iml" filepath="$PROJECT_DIR$/kafka-webview-plugin/kafka-webview-plugin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kafka-webview-ui/kafka-webview-ui.iml" filepath="$PROJECT_DIR$/kafka-webview-ui/kafka-webview-ui.iml" />
+    </modules>
+  </component>
+</project>
